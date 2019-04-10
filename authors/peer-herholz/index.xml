@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Peer Herholz</title>
-    <link>https://peerherholz.github.io/publication/</link>
-    <description>Recent content in Publications on Peer Herholz</description>
+    <title>Peer Herholz</title>
+    <link>https://peerherholz.github.io/authors/peer-herholz/</link>
+    <description>Recent content on Peer Herholz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://peerherholz.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://peerherholz.github.io/authors/peer-herholz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
