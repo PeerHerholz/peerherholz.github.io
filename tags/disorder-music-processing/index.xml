@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>disorder music processing on Peer Herholz</title>
+    <link>https://peerherholz.github.io/tags/disorder-music-processing/</link>
+    <description>Recent content in disorder music processing on Peer Herholz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://peerherholz.github.io/tags/disorder-music-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&#39;Disorders&#39; of music processing</title>
+      <link>https://peerherholz.github.io/project/disorder_music/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://peerherholz.github.io/project/disorder_music/</guid>
+      <description>What can &amp;lsquo;disorders&amp;rsquo; of music processing tell us about its organization?</description>
+    </item>
+    
+  </channel>
+</rss>

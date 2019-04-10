@@ -2,63 +2,156 @@
   
     <url>
     
-      <loc>/author/admin/</loc>
+      <loc>https://peerherholz.github.io/project/disorder_music/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
     </url>
   
     <url>
     
-      <loc>/authors/</loc>
+      <loc>https://peerherholz.github.io/project/auditory_processing/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/author/</loc>
+      <loc>https://peerherholz.github.io/project/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://peerherholz.github.io/project/auditory_system/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/tags/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/</loc>
+      <loc>https://peerherholz.github.io/tags/auditory-processing/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/post/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>/publication_types/</loc>
+      <loc>https://peerherholz.github.io/tags/auditory-system/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/publication/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>/talk/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/</loc>
+      <loc>https://peerherholz.github.io/tags/disorder-music-processing/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/authors/admin/</loc>
+      <loc>https://peerherholz.github.io/tags/music-perception/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/project/music_perception/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/project/methods/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/project/open/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/tags/open-reproducible-science/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/tags/tools-auditory-neuroscience/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/project/tools/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/author/admin/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/authors/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/author/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/post/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/publication/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/talk/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://peerherholz.github.io/authors/admin/</loc>
       <priority>0</priority>
     </url>
   
