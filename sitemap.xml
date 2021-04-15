@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/about/</loc>
-<lastmod>2021-04-14T13:14:53-05:00</lastmod>
+<lastmod>2021-04-15T14:07:28-05:00</lastmod>
 </url>
 <url>
 <loc>/community/</loc>
-<lastmod>2021-04-14T15:57:11-05:00</lastmod>
+<lastmod>2021-04-15T17:30:07-05:00</lastmod>
 </url>
 <url>
 <loc>/contact/</loc>
-<lastmod>2021-04-14T20:42:53-05:00</lastmod>
+<lastmod>2021-04-15T17:47:40-05:00</lastmod>
 </url>
 <url>
 <loc>/cv/</loc>
@@ -18,7 +18,7 @@
 </url>
 <url>
 <loc>/</loc>
-<lastmod>2021-03-30T09:44:30-05:00</lastmod>
+<lastmod>2021-04-15T10:17:01-05:00</lastmod>
 </url>
 <url>
 <loc>/open_source_projects/</loc>
@@ -30,14 +30,14 @@
 </url>
 <url>
 <loc>/publications/</loc>
-<lastmod>2021-04-14T14:05:31-05:00</lastmod>
+<lastmod>2021-04-15T17:39:09-05:00</lastmod>
 </url>
 <url>
 <loc>/research/</loc>
-<lastmod>2021-04-14T13:19:33-05:00</lastmod>
+<lastmod>2021-04-15T17:38:37-05:00</lastmod>
 </url>
 <url>
 <loc>/welcome/</loc>
-<lastmod>2021-04-14T09:57:58-05:00</lastmod>
+<lastmod>2021-04-15T10:22:05-05:00</lastmod>
 </url>
 </urlset>
