@@ -30,7 +30,11 @@
 </url>
 <url>
 <loc>/publications/</loc>
+<<<<<<< HEAD
 <lastmod>2022-04-19T13:51:54+00:00</lastmod>
+=======
+<lastmod>2022-04-19T13:32:33+00:00</lastmod>
+>>>>>>> master
 </url>
 <url>
 <loc>/research/</loc>
