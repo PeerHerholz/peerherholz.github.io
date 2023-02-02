@@ -4,25 +4,6 @@ title:  Research
 show_collection: research
 ---
 
-
-## Structure & function of the auditory system
-
-If the auditory system is one thing, it's wild. Despite recent advantages with regard to data acquisition and analyses, the functional organization and principles of the auditory system are still a highly adventurous endeavor. Among others, this especially concerns the structure-function relationship of the auditory system, its diverging pathways, as well as the information transfer between its cortical and subcortical areas. To this end, I use ultra high field (f)MRI to investigate possible functional specializations along the auditory pathways, its underlying structural properties and anatomical, resting-state based as well as task-based connectivity pattern.
-
-![structurefunction](../assets/img/ac_structurefunction.png)
-
-## Auditory processing
-
-Our normal all day life is full of an ever changing and highly complex soundscape. How and during which time point during auditory perception those countless sound categories emerge in the cortical and subcortical auditory pathway is not only a very interesting, but also challenging question. For a quite a while I’m particulary fascinated by the cortical interaction of music, singing and language, which I investigate through combined MRI & EEG, anazlying subsequent data using different connectivity and machine learning approaches. Additionally, possible factors of influence such as musical training and handedness are an important part of this research question.
-
-![audprocessing](../assets/img/auditory_processing.png)
-
-## Music perception 
-
-As music is as divers as mysterious to such an extent that it’s hard or nearly impossible to actually define it, I’m interested how music processing, especially perception, is shaped, how it can be described and possibly approximated. To hopefully shed some light on this rather overwhelming question I investigate how human and non-human brains perceive and represent different music genres and how these representations can be evaluated based on auditory/music features, as well as conceptual and computational models. To do so I apply a broad range of methods, ranging from imaging (MRI & EEG) to behavior to artificial neural networks furthermore including important factors such as development (culture & music preference) and plasticity (musical training). 
-
-![musicperception](../assets/img/music_perception.png)
-
 ## Comparing generalization in biological & artificial networks
 
 Building upon my research in auditory processing, I investigate generalization in
@@ -30,6 +11,13 @@ biological and artificial agents and the potentially underlying transformations 
 
 ![generalization](../assets/img/GAC_commentary.png)
 
+
+## The auditory system as a model mechanism of complex behavior 
+If the auditory system is one thing, it's wild. Despite recent advantages with regard to data acquisition and analyses, the functional organization and principles of the auditory system are still a highly adventurous endeavor. Among others, this especially concerns the structure-function relationship of the auditory system, its diverging pathways, as well as the information transfer between its cortical and subcortical areas. To this end, I use ultra high field (f)MRI to investigate possible functional specializations along the auditory pathways, its underlying structural properties and anatomical, resting-state based as well as task-based connectivity pattern. 
+Our normal all day life is full of an ever changing and highly complex soundscape. How and during which time point during auditory perception those countless sound categories emerge in the cortical and subcortical auditory pathway is not only a very interesting, but also challenging question. For a quite a while I’m particularly fascinated by the cortical interaction of music, singing and language, which I investigate through combined MRI & EEG, analyzing subsequent data using different connectivity and machine learning approaches. Additionally, possible factors of influence such as musical training and handedness are an important part of this research question.
+As music is as divers as mysterious to such an extent that it’s hard or nearly impossible to actually define it, I’m interested how music processing, especially perception, is shaped, how it can be described and possibly approximated. To hopefully shed some light on this rather overwhelming question I investigate how human and non-human brains perceive and represent different music genres and how these representations can be evaluated based on auditory/music features, as well as conceptual and computational models. To do so I apply a broad range of methods, ranging from imaging (MRI & EEG) to behavior to artificial neural networks furthermore including important factors such as development (culture & music preference) and plasticity (musical training). 
+
+![researchauditory](../assets/img/research_auditory.png)
 
 ## Tools for auditory neuroscience
 
@@ -40,13 +28,13 @@ Fellow folks working in auditory neuroscience know the somewhat struggle that go
 
 ## Neuroinformatics & methods
 
-I was once told that one doesn’t have to understand neuroscience methods and statistics in order to apply. While this is certainly true, it’s also certainly bad. Starting with very little method & zero programming skills everything was kinda overwhelming but at the same time fascinating. The combination of math, physics, informatics and biology amazed me and the more I read and gained practical experience the more I wanted to understand. I’m especially insterested in data management and quality control, non-standard experimental setups (e.g., naturalistic stimulation) and acquisition schemes (e.g., multiband, MT), processing steps (e.g., ICA, detrending), image registration, multi-modal measurements & data integretation, as well as multivariate analyses approaches (e.g., machine learning, encoding models). Furthermore, I’m working on pipeline creation / automization and cloud / hpc computing, recently setting up my first own server system.
+I was once told that one doesn’t have to understand neuroscience methods and statistics in order to apply them. While this is certainly true, it’s also certainly bad. Starting with very little method & zero programming skills everything was kinda overwhelming but at the same time fascinating. The combination of math, physics, informatics and biology amazed me and the more I read and gained practical experience the more I wanted to understand. I’m especially insterested in data management and quality control, non-standard experimental setups (e.g., naturalistic stimulation) and acquisition schemes (e.g., multiband, MT), processing steps (e.g., ICA, detrending), image registration, multi-modal measurements & data integretation, as well as multivariate analyses approaches (e.g., machine learning, encoding models). Furthermore, I’m working on pipeline creation / automization and cloud / hpc computing and setting up server systems.
 
 ![fmriflows](../assets/img/logo_fmriflows.gif)
 
 
 ## Open & reproducible (neuro)science
 
-Starting with the lack of details in the methods section of papers I was reading to no chance of having a look at the data or code (or sometimes even the whole publication) created some sort of frustration I found it hard to cope with. Hence, I’m trying to open up my daily research worklfow as much as possible throughout all stages using a variety of tools. Through the support during my time as an “open science fellow” I was able to initiate the Open Science Initiative University of Marburg, an university wide organization fostering open science principles for example via hackrooms and hackathons (e.g. brainhacks), workshops, as well as general assistance and support. Additionally, I’m working on integrating comparably new and less know tools like open knowledge maps & scholia into research workflows and how to use virtualization software like docker & singularity for hassle-free reproducibility and generalizabillity.
+Starting with the lack of details in the methods section of papers I was reading to no chance of having a look at the data or code (or sometimes even the whole publication) created some sort of frustration I found it hard to cope with. Hence, I’m trying to open up my daily research workflow as much as possible throughout all stages using a variety of tools. Through the support during my time as an “open science fellow” I was able to initiate the Open Science Initiative University of Marburg, an university wide organization fostering open science principles for example via hackrooms and hackathons (e.g. brainhacks), workshops, as well as general assistance and support. Additionally, I also became part of the [BIDS](https://bids-specification.readthedocs.io/en/stable/index.html) and [ReproNim](https://www.repronim.org/) teams to foster data standardization, provenance tracking and reproducibility, as well as generalizability. 
 
 ![bids](../assets/img/bids_overview.png)
