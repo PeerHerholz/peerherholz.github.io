@@ -13,4 +13,4 @@ Additionally, I’m also part of the [BIDS](https://bids-specification.readthedo
 
 In terms of research, I’m interested in generalization in biological and artificial agents and the potentially underlying transformations as a basis for intelligent adaptive behavior. I tackle these questions using MRI, EEG, behavior and artificial neural networks, with a special emphasis on data analysis approaches (e.g., pattern analyses, multimodal data integration, naturalistic paradigms, alignment methods & statistical learning) as open, transparent and reproducible as possible. Furthermore, I’m highly invested in education & outreach, fair access & utilization of knowledge, as well as responsible & sustainable science.
 
-For everything else that is currently going and/or I'm interested in, you can check my Bluesky fee [here](https://bsky.app/profile/peerherholz.bsky.social).
+For everything else that is currently going and/or I'm interested in, you can check my Bluesky feed [here](https://bsky.app/profile/peerherholz.bsky.social).
