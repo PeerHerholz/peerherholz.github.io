@@ -8,10 +8,17 @@ sitemap: false
 * this list will be replaced by the toc
 {:toc .large-only}
 
-This website is based on Hydejack, which is Copyright (c) 2020 Florian Klampfer <https://qwtel.com/> and
-licensed under the terms of the GNU General Public License as published by
+Copyright (c) 2020 Florian Klampfer <https://qwtel.com/>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version. Aspects of it where adpated by the website owner, Peer Herholz, under the respective license. 
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.

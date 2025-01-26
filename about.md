@@ -1,51 +1,167 @@
 ---
 layout: about
-title:  About
+image: /assets/img/blog/hydejack-9.jpg
+description: >
+  A boutique Jekyll theme for hackers, nerds, and academics,
+  with a focus on personal sites that are meant to impress.
+hide_description: true
+redirect_from:
+  - /download/
 ---
 
+# About
 
-After realizing that I should change my teenage musician slacker lifestyle to something good and productive I started my adventure into the human mind by earning a bachelor ([University of Leipzig](https://www.uni-leipzig.de/en/)) and master ([Phillips-University Marburg](https://www.uni-marburg.de/en)) degree in neurolinguistics and neuropsychology, followed by a master in cognitive & integrative systems neuroscience, as well as a PhD in cognitive & computational neuroscience (both at [Phillips-University Marburg](https://www.uni-marburg.de/en) and partly [BRAMS](https://www.brams.org/en/)).
+<!--author-->
 
-Puzzled by the question how waves are transformed into sound and perceived by the brain resulting in something incredibly powerful, I started my research path investigating the neurobiology of auditory processing as a model mechanism of complex biological behavior. Building upon the integration of computational and conceptual models, my research interests moved
-to generalization in biological and artificial agents and the potentially underlying transformations as a basis for intelligent adaptive behavior. I tackle these questions using MRI, EEG, behavior and artificial neural networks, with a special emphasis on data analysis approaches (e.g., pattern analyses, multimodal data integration, naturalistic paradigms, alignment methods & statistical learning) as open, transparent and reproducible as possible. Furthermore,
-I’m highly invested in education & outreach, fair access & utilization of knowledge, as well as
-responsible & sustainable science.
+## Hydejack
 
-Starting in my masters I furthermore developed a major crush on everything related to analyses and methods within the realm of neuroinformatics, open & reproducible (neuro)science, education & outreach, fair access & utilization of knowledge, as well as responsible & sustainable science. Most of the time I’m trying to combine all of the above organizing and conducting workshops, hackathons and lectures/talks, supvervising students and trying to establishing/pushing standards across different levels (lab, institute, university, etc.) by being an active part in a versatile set of communities.
+A boutique Jekyll theme for hackers, nerds, and academics.  
+{:.lead}
 
-I aim to make everything I do as open and transparent as possible, no matter if research, teaching, etc. . The different aspects and respective outcomes can be found on the following platforms:
+1. this list will be replaced by the toc
+{:toc .large-only}
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
-<a itemprop="sameAs" href="https://scholar.google.de/citations?user=4NPhFFgAAAAJ&amp;hl=en" target="_blank" rel="noopener">
-<i class="ai ai-google-scholar big-icon ai-3x"></i>
-</a>
-<a itemprop="sameAs" href="https://www.biorxiv.org/search/author1%3APeer%2BHerholz%20jcode%3Abiorxiv%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard" target="_blank" rel="noopener">
-<i class="ai ai-biorxiv big-icon ai-3x"></i>
-</a>
-<a itemprop="sameAs" href="https://psyarxiv.com/discover?q=author%3Apeer%20herholz" target="_blank" rel="noopener">
-<i class="ai ai-psyarxiv big-icon ai-3x"></i>
-</a>
-<a itemprop="sameAs" href="https://publons.com/researcher/3795528/peer-herholz/" target="_blank" rel="noopener">
-<i class="ai ai-publons big-icon ai-3x"></i>
-</a>
-<a itemprop="sameAs" href="https://orcid.org/0000-0002-9840-6257" target="_blank" rel="noopener">
-<i class="ai ai-orcid big-icon ai-3x"></i>
-</a>
-<a itemprop="sameAs" href="https://figshare.com/authors/Peer_Herholz/4514716" target="_blank" rel="noopener">
-<i class="ai ai-figshare big-icon ai-3x"></i>
-</a>
-<a itemprop="sameAs" href="https://osf.io/69jnf/" target="_blank" rel="noopener">
-<i class="ai ai-osf big-icon ai-3x"></i>
-</a>
-<a itemprop="sameAs" href="https://zenodo.org/search?page=1&size=20&q=author:peer%20herholz&keywords=BIDS&keywords=Data%20Organization&keywords=Electrophysiology&keywords=neuroimaging&keywords=Functional%20MRI" target="_blank" rel="noopener">
-<i class="ai ai-zenodo big-icon ai-3x"></i>
-</a>
-<a itemprop="sameAs" href="https://www.zotero.org/peerherholz" target="_blank" rel="noopener">
-<i class="ai ai-zotero big-icon ai-3x"></i>
-</a> <a itemprop="sameAs" href="https://hub.docker.com/u/peerherholz" target="_blank" rel="noopener">
-<img alt="Qries" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" width="70" height="90">
-</a>
+![Screenshot](/assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
+
+Hydejack's cover page on a variety of screen sizes.
+{:.figcaption}
 
 
-<sub>The icons used above (except Docker) come from the amazing [Academicons project](https://jpswalsh.github.io/academicons/) and are in parts licensed under [SIL OFL 1.1](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL), as well as [MIT](https://opensource.org/licenses/mit-license.html). The Docker icon is directly used from [Docker's Logos page](https://www.docker.com/company/newsroom/media-resources)<sub>
-     
+**Hydejack** is a boutique [Jekyll] theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
+
+It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
+
+> Your complete presence on the web — A [blog], [portfolio], and [resume].
+{:.lead}
+
+
+## A Personal Site That Won't Disappear
+
+**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
+
+Hydejack is all static sites. _HTML_. All you need is a web server — any web server — to have a professional web presence that lasts a lifetime.
+
+
+## A Free Blogging Theme
+**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+
+<!--posts-->
+
+
+## An Impressive Portfolio
+A portfolio that's guaranteed to be impressive — no matter what you put into it.
+
+<!--projects-->
+
+
+## A Printable Resume
+Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](/assets/Resume.pdf).
+
+[![Resume PDF](/assets/img/blog/resume.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
+
+Front and center page of a print resume generated by Hydejack.
+{:.figcaption}
+
+
+## Just Markdown
+Write all content with Markdown. __Hydejack__ gives you [additional CSS classes](docs/writing.md) to stylize your content, without losing compatibility with other Jekyll themes.
+
+
+## Just Markup
+**Hydejack** boasts a plethora of modern JavaScript, but make no mistake: It's still a _plain old web page_ at its core. It works without JavaScript and you can even view it in a text-based browser like `w3m`:
+
+![w3m Screenshot](/assets/img/blog/w3m.png){:.tail width="1920" height="1260" loading="lazy"}
+
+The Hydejack blog, as seen by the text browser `w3m`.
+{:.figcaption}
+
+
+## Syntax Highlighting
+**Hydejack** features syntax highlighting, powered by [Rouge].
+
+```html
+<!-- file: `_includes/my-body.html` -->
+<script type="module">
+  document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
+    const supportsCodeHighlights = false; // TBD!!
+  });
+</script>
+```
+
+Code blocks can have a filename and a caption.
+{:.figcaption}
+
+
+## Beautiful Math
+They say math is beautiful — and with **Hydejack**'s [math support][math] it's guaranteed to also look beautiful:
+
+$$
+\begin{aligned}
+  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
+            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
+            &= (x_1, \ldots, x_n)
+               \left(\begin{array}{ccc}
+                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
+                 \vdots          & \ddots & \vdots         \\
+                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
+               \end{array}\right)
+               \left(\begin{array}{c}
+                 y_1    \\
+                 \vdots \\
+                 y_n
+               \end{array}\right)
+\end{aligned}
+$$
+
+Hydejack uses KaTeX to efficiently render math.
+{:.figcaption}
+
+
+## Features
+
+{% include features.md %}
+
+
+## Download
+
+{% include table.md %}
+
+
+## Get It Now
+
+Use the the form below to purchase Hydejack PRO:
+
+<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
+
+[jekyll]: https://jekyllrb.com
+
+[blog]: /
+[portfolio]: https://hydejack.com/examples/
+[resume]: https://hydejack.com/resume/
+[download]: https://hydejack.com/download/
+[welcome]: https://hydejack.com/
+[forms]: https://hydejack.com/forms-by-example/
+
+[features]: #features
+[news]: #build-an-audience
+[syntax]: #syntax-highlighting
+[latex]: #beautiful-math
+[dark]: https://hydejack.com/blog/hydejack/2018-09-01-introducing-dark-mode/
+[search]: https://hydejack.com/#_search-input
+[grid]: https://hydejack.com/blog/hydejack/
+
+[lic]: LICENSE.md
+[pro]: licenses/PRO.md
+[docs]: docs/README.md
+[ofln]: docs/advanced.md#enabling-offline-support
+[math]: docs/writing.md#adding-math
+
+[kit]: https://github.com/hydecorp/hydejack-starter-kit/releases
+[src]: https://github.com/hydecorp/hydejack
+[gem]: https://rubygems.org/gems/jekyll-theme-hydejack
+[buy]: https://gum.co/nuOluY
+
+[gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhydejack.com%2Fdocs%2F
+[rouge]: http://rouge.jneen.net
+[katex]: https://khan.github.io/KaTeX/
+[mathjax]: https://www.mathjax.org/
