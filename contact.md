@@ -8,7 +8,7 @@ I'm usually game for a quick or long chat about anything, no matter if it's abou
 
 You can also directly schedule a meeting with me via the tool below. It's synched to my calendar and thus, all times that pop as available there _should_ be possible for me. Please note, that I'll confirm each requested meeting only if it's really possible for me and in case it's not and/or something changes, will contact you.
 
-<!-- ScheduleOnce embed START -->
-<div id="SOIDIV_PeerHerholz" data-so-page="PeerHerholz" data-height="550" data-style="border: 1px solid #d8d8d8; min-width: 290px; max-width: 900px;" data-psz="00"></div>
-<script type="text/javascript" src="https://cdn.oncehub.com/mergedjs/so.js"></script>
-<!-- ScheduleOnce embed END -->
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/herholz-peer/30min" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
