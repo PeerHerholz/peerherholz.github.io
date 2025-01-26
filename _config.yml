@@ -46,8 +46,16 @@ author:
   picture:             /assets/img/peer_profile.png
   # # Used by `jekyll-seo-tag`:
   social:
-    twitter:             peerherholz
     github:              peerherholz
+    gitlab:              peerherholz
+    email:               herholz.peer@gmail.com
+    spotify:             hüskerhoneygallants
+    soundcloud:          peerherholz
+    reddit:              peerherholz
+    linkedin:            peerherholz
+    discord:             peerherholz
+    mastodon:            peerherholz
+
 
 # Add links to the sidebar.
 menu:
