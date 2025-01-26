@@ -25,8 +25,8 @@ Neurons, Behavior, Data Analysis and Theory - 2023
 #### [BrainStat: A toolbox for brain-wide statistics and neuroscientific contextualization](https://www.sciencedirect.com/science/article/pii/S1053811922009284)  
 R Vos de Wael, Ş Bayrak, O Benkarim, __P Herholz__, S Lariviere, R Rodriguez-Cruces, C Paquola, SJ Hong, B Misic, A Evans, S Valk, B Bernhardt  
 NeuroImage - 2023  
-[preprint](https://www.biorxiv.org/content/10.1101/2022.01.18.476795v2.abstract),  
-[documentation](https://brainstat.readthedocs.io/en/master/),  
+[preprint](https://www.biorxiv.org/content/10.1101/2022.01.18.476795v2.abstract),
+[documentation](https://brainstat.readthedocs.io/en/master/),
 [GitHub repository](https://github.com/MICA-MNI/BrainStat)
 
 #### [A labeled Clinical-MRI dataset of Nigerian brains](https://arxiv.org/abs/2309.05768)  
@@ -36,35 +36,33 @@ preprint at ArXiv - 2023
 #### [fMRIflows: a consortium of fully automatic univariate and multivariate fMRI processing pipelines](https://link.springer.com/article/10.1007/s10548-022-00935-8)
 MP Notter, __P Herholz*__, S Da Costa, OF Gulban, AI Isik, MM Murray  
 Brain Topography - 2023  
-[preprint](https://www.biorxiv.org/content/10.1101/2021.03.23.436650v1.abstract),  
+[preprint](https://www.biorxiv.org/content/10.1101/2021.03.23.436650v1.abstract),
 [Github repository](https://github.com/miykael/fmriflows)
 
 #### [Open and reproducible neuroimaging: from study inception to publication](https://www.sciencedirect.com/science/article/pii/S1053811922007388)  
 G Niso, R Botvinik-Nezer, S Appelhoff, A De La Vega, O Esteban, J A Etzel, K Finc, M Ganz, R Gau, Y O Halchenko, __P Herholz__, A Karakuzu, D Keator, C Maumet, C J Markiewicz, C Pernet, F Pestilli, N Queder, T Schmitt, W Sójka, A S Wagner, K Whitaker, J Rieger  
 NeuroImage - 2022  
-[preprint](https://osf.io/preprints/pu5vb/),  
-[documentation/platform](https://neuroscout.org/),  
-[GitHub repository](https://github.com/neuroscout),  
-[Jupyter Book](https://neuroscout.github.io/neuroscout-paper)  
+[preprint](https://osf.io/preprints/pu5vb/), [documentation/platform](https://neuroscout.org/),
+[GitHub repository](https://github.com/neuroscout), [Jupyter Book](https://neuroscout.github.io/neuroscout-paper)  
 
 #### [Neuroscout, a unified platform for generalizable and reproducible fMRI research](https://elifesciences.org/articles/79277)  
 A de la Vega, R Rocca, R W Blair, C J Markiewicz, J Mentch, J D Kent, __P Herholz__, S S Ghosh, R A Poldrack, T Yarkoni  
 eLife - 2022  
-[preprint](https://www.biorxiv.org/content/10.1101/2022.04.05.487222.abstract),  
-[documentation/platform](https://neuroscout.org/),  
-[GitHub repository](https://github.com/neuroscout),  
+[preprint](https://www.biorxiv.org/content/10.1101/2022.04.05.487222.abstract),
+[documentation/platform](https://neuroscout.org/),
+[GitHub repository](https://github.com/neuroscout),
 [Jupyter Book](https://neuroscout.github.io/neuroscout-paper)  
 
 #### [Micapipe: A Pipeline for Multimodal Neuroimaging and Connectome Analysis](https://www.sciencedirect.com/science/article/pii/S1053811922007273)  
 R R Cruces, J Royer, __P Herholz__, S Larivière, R Vos de Wael, C Paquola, O Benkarim, BY Park, J Degré-Pelletier, M Nelson, J DeKraker, C Tardif, JB Poline, L Concha, B C Bernhardt  
 NeuroImage - 2022  
-[preprint](https://www.biorxiv.org/content/10.1101/2022.01.31.478189.abstract),  
-[documentation](https://micapipe.readthedocs.io/en/latest/),  
+[preprint](https://www.biorxiv.org/content/10.1101/2022.01.31.478189.abstract),
+[documentation](https://micapipe.readthedocs.io/en/latest/),
 [GitHub repository](https://github.com/MICA-MNI/micapipe)  
 
 #### [An open MRI dataset for multiscale neuroscience](https://www.nature.com/articles/s41597-022-01682-y)  
 J Royer, R Rodríguez-Cruces, S Tavakol, S Lariviere, __P Herholz__, Q Li, R Vos de Wael, C Paquola, O Benkarim, BY Park, A J Lowe, D S Margulies, J Smallwood, A Bernasconi, N Bernasconi, B Frauscher, B C Bernhardt  
-Scientific Data - 2021
+Scientific Data - 2021  
 [preprint](https://www.biorxiv.org/content/10.1101/2021.08.04.454795v1.abstract),
 [data repository](https://portal.conp.ca/dataset?id=projects/mica-mics)
 
