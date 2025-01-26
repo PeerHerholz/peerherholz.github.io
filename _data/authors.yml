@@ -16,7 +16,7 @@ peerherholz:
 
   # This photo will be used in the about section
   picture:
-    path:            https://placehold.it/128x128
+    path:            /assets/img/peer_profile.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     # srcset:
     #   1x:            https://placehold.it/128x128
@@ -26,7 +26,13 @@ peerherholz:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         peerherholz
-    github:          peerherholz
-    email:           herholz.peer@gmail.com
+    github:              peerherholz
+    gitlab:              peerherholz
+    email:               herholz.peer@gmail.com
+    spotify:             hüskerhoneygallants
+    soundcloud:          peerherholz
+    reddit:              peerherholz
+    linkedin:            peerherholz
+    discord:             peerherholz
+    mastodon:            peerherholz
 
