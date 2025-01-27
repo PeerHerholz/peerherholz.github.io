@@ -3,7 +3,16 @@ layout: page
 title:  Publications
 ---
 
-Below you'll find a (somewhat recent) list of publications. However, for an up-to-date list including things I might have missed, please check my [Google Scholar profile](https://scholar.google.com/citations?user=4NPhFFgAAAAJ&hl=en&oi=ao).
+Below you'll find a (somewhat recent) list of publications based on my [Google Scholar profile](https://scholar.google.com/citations?user=4NPhFFgAAAAJ&hl=en&oi=ao):
+
+
+<iframe src="https://scholar.google.com/citations?hl=en&user=4NPhFFgAAAAJ&view_op=list_works&sortby=pubdate" width="100%" height="500px"></iframe>
+
+
+
+
+However, to provide a bit more information and context, I also compiled a list of publications below, including respective links to the papers, preprints, data repositories, and software packages.
+
 
 __*__ - denotes shared first and/or corresponding author
 
