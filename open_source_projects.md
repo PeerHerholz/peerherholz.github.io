@@ -3,7 +3,9 @@ layout: page
 title:  Open Source Teaching & Projects
 ---
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=peerherholz&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=peerherholz&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=peerherholz)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=peerherholz&layout=compact)
 
 Below you’ll find an overview (most likely not complete) of the open source projects I’m involved in. The section is divided into teaching related resources, projects I initiated or maintain and amazing projects I’m contributing to.  
 
