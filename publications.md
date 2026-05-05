@@ -71,7 +71,7 @@ NeuroImage - 2023
 E Wogu, P Filima, B Caron, D Levitas, __P Herholz__, ..., D Eke, F Pestilli  
 preprint at ArXiv - 2023
 
-[fMRIflows: a consortium of fully automatic univariate and multivariate fMRI processing pipelines](https://link.springer.com/article/10.1007/s10548-022-00935-8)
+[fMRIflows: a consortium of fully automatic univariate and multivariate fMRI processing pipelines](https://link.springer.com/article/10.1007/s10548-022-00935-8)  
 MP Notter, __P Herholz*__, S Da Costa, OF Gulban, AI Isik, MM Murray  
 Brain Topography - 2023  
 [preprint](https://www.biorxiv.org/content/10.1101/2021.03.23.436650v1.abstract),
