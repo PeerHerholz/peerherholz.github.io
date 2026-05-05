@@ -16,9 +16,38 @@ However, to provide a bit more information and context, I also compiled a list o
 
 __*__ - denotes shared first and/or corresponding author
 
+[Predicting functional topography of the human visual cortex from cortical anatomy at scale](https://www.biorxiv.org/content/10.1101/2025.11.27.690210v3)  
+F L Ribeiro, R Satzger, F Hoffstaedter, C Börger, __P Herholz__, D Linhardt, N C Benson, D S Schwarzkopf, A M Puckett, S Bollmann, M N Hebart  
+preprint at bioRxiv - 2026
+
+[The EEGManyPipelines Dataset: Metascientific Data on 168 Independent Analyses of a Single EEG Dataset](https://osf.io/preprints/metaarxiv/c4xwg_v1)  
+E Cesnaite, A Pascarella, M Vinding, J Algermissen, N Fischer, T Puoliväli, ..., __P Herholz__, ...  
+preprint at OSF - 2025
+
+[A labeled Clinical-MRI dataset of Nigerian brains](https://www.nature.com/articles/s41597-025-04743-0)  
+E Wogu, P Filima, B Caron, D Levitas, __P Herholz__, ..., D Eke, F Pestilli  
+Scientific Data - 2025  
+[preprint](https://arxiv.org/abs/2311.04425)
+
+[Transforming child speech data into clinical-grade artificial intelligence pipelines for speech-language impairment detection](https://acoustics.org/laying-the-groundwork-to-diagnose-speech-impairments-in-children-with-clinical-ai-asa188/)  
+M Speights, V Shrivastava, A Pathak, H Ma, B Yedla, __P Herholz__  
+The Journal of the Acoustical Society of America - 2025
+
+[Work in Progress: Exclusive Rhetoric in AI Conference Mission Statements](https://peer.asee.org/work-in-progress-exclusive-rhetoric-in-ai-conference-mission-statements)  
+T Mackenzie, L Balaji, K H Battel, R Y G Paccotacya-Yanque, A Paul, L Virguez, L Salgado, B N Guler, R R Khan, N Perez, S Bhaduri, D Basu, __P Herholz__  
+2025 ASEE Annual Conference & Exposition - 2025
+
 [Trainees’ perspectives and recommendations for catalyzing the next generation of NeuroAI researchers](https://www.nature.com/articles/s41467-024-53375-2)  
 A I Luppi, J Achterberg, S Schmidgall, I P Bilgin, __P Herholz__..., P Scotti, H M Gellersen  
 Nature Neuroscience - 2024
+
+[Reimagining AI Conference Mission Statements to Promote Inclusion in the Emerging Institutional Field of AI](https://ieeexplore.ieee.org/document/10893566/)  
+T Mackenzie, S Bhaduri, L Salgado, A Paul, __P Herholz__, Z Rosenthal, R Khan, D Basu  
+2024 IEEE Frontiers in Education Conference (FIE) - 2024
+
+[Proceedings of the OHBM Brainhack 2022](https://apertureneuro.org/article/92760-proceedings-of-the-ohbm-brainhack-2022)  
+S Moia, H T Wang, A S Heinsfeld, D Jarecka, Y F Yang, S Heunis, ..., __P Herholz__, ...  
+Aperture Neuro - 2024
 
 [The past, present, and future of the brain imaging data structure (BIDS)s](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00103/119672)  
 R A Poldrack, C J Markiewicz, S Appelhoff, Y K Ashar, ...__P Herholz__..., T Yarkoni, K J Gorgolewski  
